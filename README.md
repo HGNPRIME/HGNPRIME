@@ -7,6 +7,8 @@
 
 - ⚡ Fun fact: I love games especially Magic The Gathering.
 
+<img width="400px" align="left" src="https://camo.githubusercontent.com/d66204533561098048bf9b635d2f617de59dcfc2/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d726f676572696f3330303126686964653d68746d6c266c61796f75743d636f6d70616374267468656d653d6275656679" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=HGNPRIME&amp;hide=html&amp;layout=compact&amp;theme=buefy" style="max-width:100%;">
+
 </br>
 
 <!--
