@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my tech skills
 - 🌱 I’m currently learning Typescript with ReactJS
-- 📫 How to reach me:  <a href="https://www.linkedin.com/in/haroldo-neto"><img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384889.svg" width="20"></img></a> 
+- 📫 How to reach me:  <a href="https://www.linkedin.com/in/haroldo-neto"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="20"></img></a> 
 <a href=mailto:haroldo.hgn@gmail.com><img src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" width="20"></img></a> 
 
 - ⚡ Fun fact: I love games especially Magic The Gathering.
